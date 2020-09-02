@@ -1,4 +1,8 @@
 body {
-    background-image: url('../images/backTechImage.jpg');
+    background-image: url('../images/backTechImage.jpg') ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     
   }
